@@ -1,0 +1,54 @@
+
+  body{
+
+    background-image: url(../dist/blue-futuristic-networking-technology_53876-97395\ \(1\).avif);
+    background-size:auto;
+    background-position: center;
+    border-style: solid;
+    text-align: center;
+    padding: 40px;
+  color: white;
+
+  }
+ 
+  .title{ 
+   align-content: end ;
+    text-align: center;
+  }
+  .option{
+    padding: 50px;
+    border-style: solid;
+  }
+  a.active {
+    background-color: 010d1b87;
+}
+
+
+  footer {
+    border-style: solid;
+    text-align: center;
+    width: 100%;
+  }
+  button {
+    width: 7.5cm;
+    bottom: unset;
+    background-color: rgb(134, 152, 134);
+}
+input{
+  width: 271px;
+}
+
+.topnav a {
+  overflow: hidden;
+  text-align: center;
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+
+
